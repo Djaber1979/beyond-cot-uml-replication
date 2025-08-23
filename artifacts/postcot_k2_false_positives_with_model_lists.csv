@@ -1,0 +1,11 @@
+pair,support_models
+notificationservice::sendpasswordresetconfirmation,"['ChatGPT-o3', 'Grok3']"
+notificationservice::sendpasswordresetemail,"['Claude3.7', 'Grok3']"
+product::listproduct,"['Llama4', 'Mistral']"
+searchfilter::applyfilters,"['DeepSeek(R1)', 'Qwen3']"
+searchfilter::searchproducts,"['Llama4', 'Mistral']"
+servicerequest::cancel,"['ChatGPT-o3', 'Llama4']"
+servicerequest::schedule,"['Gemini-2.5-Pro-Preview-05-06', 'Llama4']"
+useraccount::registeruser,"['Llama4', 'Mistral']"
+wastejourney::canceljourney,"['Claude3.7', 'Gemini-2.5-Pro-Preview-05-06']"
+wastejourney::completejourney,"['Claude3.7', 'Gemini-2.5-Pro-Preview-05-06']"

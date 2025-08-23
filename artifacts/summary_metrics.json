@@ -1,0 +1,39 @@
+{
+  "raw_proposals": 3373,
+  "universe_n": 916,
+  "class_n": 25,
+  "off_scaffold_present": [
+    "platformmanager",
+    "servicerequestdetails",
+    "user",
+    "wastetracking"
+  ],
+  "pos_prevalence(%)": 19.0562833575934,
+  "fleiss_kappa": 0.06419010151686252,
+  "median_pairwise_cohen_kappa": 0.07287616002015951,
+  "k5": {
+    "coverage": 54.0,
+    "precision(%)": 90.74074074074075,
+    "recall(%)": 100.0,
+    "F1(%)": 95.14563106796116,
+    "TP": 49.0,
+    "FP": 5.0,
+    "FN": 0.0
+  },
+  "union": {
+    "TP": 31,
+    "FP": 44,
+    "FN": 18,
+    "P(%)": 41.333333333333336,
+    "R(%)": 63.26530612244898,
+    "F1(%)": 50.0
+  },
+  "post_k2": {
+    "TP": 20,
+    "FP": 10,
+    "FN": 29,
+    "P(%)": 66.66666666666666,
+    "R(%)": 40.816326530612244,
+    "F1(%)": 50.63291139240506
+  }
+}

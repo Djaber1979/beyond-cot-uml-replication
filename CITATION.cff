@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Beyond Chains-of-Thought: Multi-LLM Voting for Behavioral Augmentation of UML Class Diagrams — Replication Package"
+message: "If you use this repository, please cite the accompanying article."
+type: software
+authors:
+  - family-names: Rouabhia
+    given-names: Djaber
+version: "1.0.0"
+date-released: "2025-08-23"
+repository-artifact: "https://github.com/"
+keywords:
+  - UML
+  - Class Diagrams
+  - Large Language Models
+  - Chain-of-Thought
+  - Consensus
+  - Reproducibility

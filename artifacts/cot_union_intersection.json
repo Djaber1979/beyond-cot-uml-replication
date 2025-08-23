@@ -1,0 +1,13 @@
+{
+  "union_size": 75,
+  "intersection_size": 0,
+  "union_metrics": {
+    "TP": 31,
+    "FP": 44,
+    "FN": 18,
+    "P(%)": 41.333333333333336,
+    "R(%)": 63.26530612244898,
+    "F1(%)": 50.0
+  },
+  "intersection_pairs": []
+}
